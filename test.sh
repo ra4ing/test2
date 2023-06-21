@@ -3,10 +3,11 @@
 echo "hello"
 
 
-for i int $(1..10); do
+for i in $(1..10); do
 
     echo -E "$i\n"
 
 done
 
 echo "end"
+echo "hello"
