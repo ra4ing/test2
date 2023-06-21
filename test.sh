@@ -7,4 +7,3 @@ done
 
 echo "end"
 
-echo "hello"
